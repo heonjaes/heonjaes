@@ -6,8 +6,6 @@ End to End Machine Learning Engineer
 
 I love building fully functioning ML and AI applications, starting from data engineering, creating pipelines, implementing MLOps, to forecasting. My expertise lies in handling the entire end-to-end process to develop applications that run smoothly and deliver impactful results. 
 
-Feel free to get in touch with me via email: heonjae.shin00@gmail.com
-
 *   🌍  I'm based in Melbourne, Victoria
 *   ✉️  You can contact me at [heonjae.shin00@gmail.com](mailto:heonjae.shin00@gmail.com)
 *   🧠  I'm learning Airflow & Docker
